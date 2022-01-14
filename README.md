@@ -11,7 +11,7 @@ All other bounties are listed in the following format, sorted by amount from low
 [Summary of Work]`
 
 ## Claiming Bounties
-Security bounties are claimed and paid through [Immunify](https://immunefi.com/bounty/primitive/), other bounties are claimed manually.  Keep in mind, bounties are only eligible to be claimed if they are listed in the `main` branch of this repository.  Some bounties may expire without warning. 
+Security bounties are claimed and paid through [Immunify](https://immunefi.com/bounty/primitive/), but other bounties are claimed manually.  Keep in mind, bounties are only eligible to be claimed if they are listed in the `main` branch of this repository.  Some bounties may expire without warning. 
 
 To claim a bounty, join the [Primitive Discord](https://discord.com/invite/gYDVGNPVz8) and visit the channel `claim-bounty`.  In that channel, post a message in the following format.
 `[BOUNTY ID] - [AMOUNT]
