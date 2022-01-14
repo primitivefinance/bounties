@@ -10,7 +10,7 @@ They are listed in the following format, sorted by amount from low to high.
 ## Claiming Bounties
 Keep in mind, bounties are only eligible to be claimed if they are listed as ACTIVE in the `main` branch of this repository.  Some bounties may expire without warning. 
 
-To claim a bounty, join the [Primitive Discord](https://discord.com/invite/gYDVGNPVz8) and visit the channel `bounty-claim`.  In that channel, post a message in the following format.
+To claim a bounty, join the [Primitive Discord](https://discord.com/invite/gYDVGNPVz8) and visit the channel `claim-bounty`.  In that channel, post a message in the following format.
 `[BOUNTY ID] - [AMOUNT]
 Summary of work completed + link to proof of work (blog post, hackmd, github PR, twitter thread, etc...)`
 
